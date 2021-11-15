@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @subham-misra
-- 👀 I’m interested in web development and competitive programming
-- 🌱 I’m currently learning BTech in Computer science and engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 Facebook profile link https://www.facebook.com/subham.misra.7792,linkedin profile link https://www.linkedin.com/in/subham-misra-4871a6201
+- 👀 I’m interested in web development and competitive programming.
+- 💞️ I’m looking to collaborate on web development.
+- 📫 Facebook profile link https://www.facebook.com/subham.misra.7792, linkedin profile link https://www.linkedin.com/in/subham-misra-4871a6201
 
 
 <!---
